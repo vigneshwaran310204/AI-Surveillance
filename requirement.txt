@@ -1,0 +1,12 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+ultralytics
+gtts
+playsound==1.2.2
+requests
+torch
+torchvision
+torchaudio
+ollama
